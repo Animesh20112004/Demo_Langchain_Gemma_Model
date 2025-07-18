@@ -1,8 +1,3 @@
-Here’s a well-structured `README.md` file tailored for your Streamlit chatbot app using Llama 3 and LangChain:
-
----
-
-```markdown
 # 🤖 Llama 3 ChatBot with LangChain & Streamlit
 
 This is a simple yet expressive chatbot built using [Llama 3](https://ollama.com/library/llama3), [LangChain](https://www.langchain.com/), and [Streamlit](https://streamlit.io/). The assistant is designed to be helpful, direct, and a bit rude—perfect for brutally honest answers.
